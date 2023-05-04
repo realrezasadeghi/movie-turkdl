@@ -1,0 +1,28 @@
+{
+  "header": {
+    "home": "خانه",
+    "boxOffice": "باکس آفیس",
+    "moviesSpecial": "فیلم های ویژه",
+    "dedicatedSubtitles": "زیرنویس اختصاصی",
+    "buySpecialSubscription": "خرید اشتراک ویژه",
+    "search": "جستجو",
+    "login": "ورود",
+    "register": "ثبت نام"
+  },
+  "category": {
+    "title": "دسته بندی",
+    "genres": "ژانرها",
+    "cinemaNews": "اخبار سینما",
+    "weeklyScheduleOfSeries": "برنامه هفتگی سریال ها",
+    "topTitles": "عناوین برتر",
+    "watchList": "لیست تماشا"
+  },
+  "home": {
+    "selectedMovies": {
+      "title": "فیلم های برگزیده"
+    },
+    "searchAdvanced": {
+      "title": "جستجوی پیشرفته"
+    }
+  }
+}

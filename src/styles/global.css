@@ -1,0 +1,26 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+:root {
+  --bg-color-dark: #15171f;
+  --bg-color-white: #E2EDFC;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  box-sizing: border-box;
+  background-color: var(--bg-color-white);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  .dark {
+    background-color: var(--bg-color-dark);
+  }
+}
